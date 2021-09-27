@@ -1,0 +1,16 @@
+{
+  "name": "cydemo",
+  "version": "1.0.0",
+  "description": "Cypress Demo interacting with BR.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Emile Munyangabe",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.0.0",
+    "faker": "^5.5.3"
+  },
+  "dependencies": {}
+}

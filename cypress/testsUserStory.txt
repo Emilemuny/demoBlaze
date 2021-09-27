@@ -1,0 +1,20 @@
+demoblaze Tests user stories.
+
+- SignUp/Login/Logout
+
+  - User should be able to SignUp
+  - User should be able to Login w/ Valid Credentials
+  - User should not be able Login w/ Invalid Credentials
+  - User should be able to Logout
+
+- Product Item Checkout
+
+  - User should be able to Add Item to the Cart
+  - User shoudlbe able to complete checkout/placing an order
+
+- API Tests
+
+  - Validate POST /addtocart  (Add item to cart)
+  - Validate POST /deleteitem (Remove item from the cart)
+  -
+

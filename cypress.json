@@ -1,0 +1,11 @@
+{
+  "projectId": "",
+  "baseUrl": "https://www.demoblaze.com/",
+  "retries": { "runMode": 0, "openMode": 0 },
+  "watchForFileChanges": true,
+  "nodeVersion": "system",
+  "viewportHeight": 1070,
+  "viewportWidth": 1600,
+  "chromeWebSecurity": false,
+  "experimentalStudio": true
+}
